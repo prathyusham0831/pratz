@@ -2,6 +2,3 @@ hello
 hello 
 hello
 bunny
-honey
-chitti
-
